@@ -60,10 +60,10 @@ export default function Footer() {
               <li className="flex items-center gap-2 text-sand-400">
                 <Mail className="h-4 w-4 shrink-0" />
                 <a
-                  href="mailto:info@elsvilarsdelalbera.cat"
+                  href="mailto:elsvilarsdelalbera@gmail.com"
                   className="transition-colors hover:text-white"
                 >
-                  info@elsvilarsdelalbera.cat
+                  elsvilarsdelalbera@gmail.com
                 </a>
               </li>
             </ul>

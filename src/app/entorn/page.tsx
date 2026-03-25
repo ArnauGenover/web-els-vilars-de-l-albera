@@ -41,12 +41,12 @@ const sections: { title: string; spots: Spot[] }[] = [
       {
         icon: Pill,
         name: "Farmàcia",
-        detail: "Sant Climent Sescebes, a uns 8 km.",
+        detail: "Sant Climent Sescebes, a uns 6 km.",
       },
       {
         icon: Landmark,
         name: "Bancs i caixers",
-        detail: "Garriguella, a uns 6 km.",
+        detail: "Garriguella, a uns 11,5 km.",
       },
     ],
   },

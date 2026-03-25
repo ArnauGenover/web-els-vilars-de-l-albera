@@ -6,7 +6,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import {
   MapPin,
   Mail,
-  Phone,
   Navigation,
   Loader2,
   CheckCircle2,
@@ -271,10 +270,10 @@ export default function Contacte() {
                     <p className="font-medium text-bark-800">Email</p>
                     <p className="text-sm text-bark-700">
                       <a
-                        href="mailto:info@elsvilarsdelalbera.cat"
+                        href="mailto:elsvilarsdelalbera@gmail.com"
                         className="text-forest-700 hover:underline"
                       >
-                        info@elsvilarsdelalbera.cat
+                        elsvilarsdelalbera@gmail.com
                       </a>
                     </p>
                   </div>
@@ -282,11 +281,14 @@ export default function Contacte() {
 
                 <li className="flex items-start gap-3">
                   <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-forest-700/10">
-                    <Phone className="h-5 w-5 text-forest-700" />
+                    <Send className="h-5 w-5 text-forest-700" />
                   </div>
                   <div>
-                    <p className="font-medium text-bark-800">Telèfon</p>
-                    <p className="text-sm text-bark-700">+34 600 000 000</p>
+                    <p className="font-medium text-bark-800">Formulari</p>
+                    <p className="text-sm text-bark-700">
+                      Utilitza el formulari d&apos;aquesta pàgina per
+                      contactar-nos directament.
+                    </p>
                   </div>
                 </li>
               </ul>
