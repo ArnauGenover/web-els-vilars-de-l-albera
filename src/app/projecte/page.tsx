@@ -124,10 +124,11 @@ export default function Projecte() {
           className="rounded-xl border-l-4 border-forest-700 bg-white p-8 shadow-sm"
         >
           <p className="text-lg italic leading-relaxed text-bark-700">
-            &ldquo;Vam comprar aquest terreny amb la il·lusió de crear un
-            lloc on els joves poguessin viure la natura com nosaltres la vam
-            viure de petits. Un racó de món on el temps s&apos;atura i la
-            muntanya t&apos;ensenya tot el que necessites saber.&rdquo;
+            &ldquo;Aquest terreny ha passat de generació en generació a la
+            nostra família. L&apos;hem conservat amb la il·lusió de crear un
+            lloc on els joves puguin viure la natura tal com ho fèiem de
+            petits. Un racó de món on el temps s&apos;atura i la muntanya
+            t&apos;ensenya tot el que necessites saber.&rdquo;
           </p>
           <footer className="mt-4 text-sm font-medium text-forest-700">
             — Propietaris d&apos;Els Vilars de l&apos;Albera
